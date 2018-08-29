@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Charles Szilagyi <k@szil.me>",
   "license": "MIT",
+  "repository": "git@github.com:thekarel/api-schema-conv.git",
   "bin": {
     "asc": "./index.js",
     "api-schema-conv": "./index.js"
