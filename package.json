@@ -1,12 +1,13 @@
 {
-  "name": "@thekarel/js-os-cli",
+  "name": "api-schema-conv",
   "version": "0.5.0",
   "description": "JSON Schema to OpenAPI Schema CLI converter",
   "main": "index.js",
   "author": "Charles Szilagyi <k@szil.me>",
   "license": "MIT",
   "bin": {
-    "js-os": "./index.js"
+    "asc": "./index.js",
+    "api-schema-conv": "./index.js"
   },
   "dependencies": {
     "commander": "^2.17.1",

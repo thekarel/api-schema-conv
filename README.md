@@ -7,8 +7,8 @@ Supports converting JSON Schema to OpenAPI format.
 # Install
 
 ```
-npm i -g @thekarel/js-os-cli
-yarn global add @thekarel/js-os-cli
+npm i -g api-schema-conv
+yarn global add api-schema-conv
 ```
 
 # Usage
@@ -16,11 +16,11 @@ yarn global add @thekarel/js-os-cli
 Convert JSON Schema to OpenAPI and dump JSON to the console:
 
 ```
-js-os convert /path/to/schema.json
+asc convert /path/to/schema.json
 ```
 
 Convert JSON Schema to OpenAPI and dump YAML to the console:
 
 ```
-js-os convert --yaml /path/to/schema.json
+asc convert --yaml /path/to/schema.json
 ```
