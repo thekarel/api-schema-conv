@@ -1,5 +1,5 @@
 {
-  "name": "js-os-cli",
+  "name": "@thekarel/js-os-cli",
   "version": "0.5.0",
   "description": "JSON Schema to OpenAPI Schema CLI converter",
   "main": "index.js",

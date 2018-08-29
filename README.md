@@ -7,8 +7,8 @@ Supports converting JSON Schema to OpenAPI format.
 # Install
 
 ```
-npm i -g js-os-cli
-yarn global add js-os-cli
+npm i -g @thekarel/js-os-cli
+yarn global add @thekarel/js-os-cli
 ```
 
 # Usage
